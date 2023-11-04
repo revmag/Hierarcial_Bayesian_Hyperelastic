@@ -1,7 +1,7 @@
 # Bayesian-EUCLID Readme
 
 Implementation of https://www.sciencedirect.com/science/article/pii/S0045782522003681, in Tensorflow.
-Origianl code of the paper, which is implemented in Pytorch, is available at:https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian/tree/main.
+Original code of the paper, which is implemented in Pytorch, is available at:https://github.com/EUCLID-code/EUCLID-hyperelasticity-bayesian/tree/main.
 
 To run, cd to Drivers, and write:
 python main_hss.py ArrudaBoyce low
